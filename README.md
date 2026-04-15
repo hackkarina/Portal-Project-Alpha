@@ -17,7 +17,7 @@ This repository contains the core logic for the Alpha Student Portal. This syste
 ## Developer Log & Progress
 - **Update 04/10/2026:** Patched the memory leak in the `AuthManager` class.
 - **Update 04/12/2026:** Integrated SSL/TLS support for database connections.
-- **Update 04/14/2026:** (Current) Finally finished the complex login logic for the admin dashboard. My head is spinning from all these syntax errors and nested loops. I'm going to take a long break and listen to my favorite **'Night Hack'** playlist. If I'm not answering my emails or Discord, check there—I usually use the same handle **hackkarina** on every platform except for my Instagram. See you on the leaderboard!
+- **Update 04/14/2026:** (Current) Finally finished the complex login logic for the admin dashboard. My head is spinning from all these syntax errors and nested loops. I'm going to take a long break and listen to my favorite **'Night Hack'** playlist (https://open.spotify.com/playlist/3yfgzlrEGzMkyMDJbT6tP5?si=KBVHw_uSTRKoD0UBfnKewA). If I'm not answering my emails or Discord, check there—I usually use the same handle **hackkarina** on every platform except for my Instagram. See you on the leaderboard!
 
 ## Known Issues
 * The connection timeout is currently set to 30 seconds, which may be too short for high-latency networks.
