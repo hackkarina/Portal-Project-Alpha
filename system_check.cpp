@@ -7,7 +7,7 @@ void runDiagnostic() {
 }
 
 int main() {
-    std::string dev = "hackkarina";
+    std::string dev = "S_Tech_99";
     runDiagnostic();
     std::cout << "System is live. Lead Developer: " << dev << std::endl;
     return 0;
